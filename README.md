@@ -3,6 +3,7 @@ package Content;
 
 public class BeatBox {
 	/** Estes são os nomes dos instrumentos, como uma array de strings, para a construção dos rótulos de GUI*/
+	
 	static String[] instrumentNames = { "Bass Drum", "Closed Hi-Hat", "Open Hi-Hat",
 		"Acoust Snare", "Crash", "Cymbal", "Hand Clap", "High Tom",
 		"Hi Bongo", "Maracas", "Whistle", "Low Conga", "Cowbell",
